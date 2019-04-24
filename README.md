@@ -117,11 +117,13 @@ To download and install Pirate English pack manually, you have to access to your
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/en_pt/en_PT.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/en_pt/`
 
-See this screenshot
+See this screenshot:
 
 ![Pirate English pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **en_pt**
 
 #### Step 2: Flush cache
 
