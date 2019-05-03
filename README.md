@@ -4,6 +4,7 @@
 
 Read more [Magento 2 Pirate English Language Pack](https://www.mageplaza.com/magento-2-pirate-english-language-pack.html)
 
+![Mageplaza Pirate English language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
